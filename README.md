@@ -24,3 +24,6 @@ De mientras, continua aprendiendo....
 * [Repositorio de GitHub de .NET MAUI](https://github.com/dotnet/maui): el repositorio .NET MAUI GitHub donde se desarrolla activamente el proyecto.
 * [Documentacion Oficial de Microsoft sobre .NET MAUI](https://aka.ms/maui/docs): la documentación oficial de Microsoft sobre .NET MAUI.
 * [Ruta de Aprendizaje sobre .NET MAUI](https://aka.ms/maui/mslearn): un curso interactivo de .NET MAUI en el sitio web de Microsoft Learn con ejemplos prácticos para comenzar a aprender .NET MAUI.
+
+## Traduccion al Español 
+Este repositorio es una traduccion no perfecta del repositorio de [Gerald Versluis](https://github.com/jfversluis/learn-dotnet-maui), Software Engineer en Microsoft.

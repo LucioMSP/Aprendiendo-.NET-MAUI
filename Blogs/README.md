@@ -4,7 +4,7 @@ Aquí no encontraras ni videos ni PodCast ni nada de eso, netamente encontrarás
 
 ## Blogs Oficiales 
 
-* [.NET Blog (.NET MAUI category)](https://devblogs.microsoft.com/dotnet/category/maui/)
+* [.NET Blog (.NET MAUI)](https://devblogs.microsoft.com/dotnet/category/maui/)
 
 ## Blogs de la Comunidad
 
@@ -24,5 +24,5 @@ Aquí no encontraras ni videos ni PodCast ni nada de eso, netamente encontrarás
 * [Rendy Del Rosario](https://www.xamboy.com/)
 * [Saamer Mansoor](https://prototypemakers.medium.com/)
 * [Shaun Lawrence](https://blog.bijington.com)
-* [Vicente Guzman](https://www.vicenteguzman.com/)
+* [Vicente Guzman](https://vicenteguzman.com/)
 * [Vladislav Antonyuk](https://vladislavantonyuk.azurewebsites.net/)

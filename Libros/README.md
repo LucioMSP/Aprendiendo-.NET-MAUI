@@ -1,4 +1,4 @@
-# Recursos de Libros de aprendizaje sobre .NET MAUI
+# Recursos de Libros para aprender sobre .NET MAUI
 
 Principales razones por las que la lectura es importante para todos nosotros:
 - Aumenta nuestra curiosidad y conocimiento.
@@ -11,4 +11,4 @@ Por ello no hay nada como leer un buen libro y aquí hay una lista de libros rel
 ## Libros para aprender sobre .NET MAUI
 
 * [Enterprise Application Patterns using .NET MAUI](https://aka.ms/maui-ebook) - Autor: [Michael Stonis](https://github.com/michaelstonis)
-* * [.NET MAUI IN ACTION](https://www.manning.com/books/dot-net-maui-in-action) - Autor: [Matt Goldman](https://github.com/mattgoldman)
+* [.NET MAUI IN ACTION](https://www.manning.com/books/dot-net-maui-in-action) - Autor: [Matt Goldman](https://github.com/mattgoldman)
